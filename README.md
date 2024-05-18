@@ -1,4 +1,4 @@
-# Projeto: Funcionarios Backend
+# Projeto: Funcionarios API
 
 ## Descrição: 
 Aplicação desenvolvida para listar, editar, deletar e visualizar funcionários cadastrados em um banco de dados, <br>
@@ -35,7 +35,7 @@ DB_PASSWORD= <br>
 * Após a conclusão das instalações, você pode iniciar o servidor de desenvolvimento localmente. Você pode fazer isso executando o comando 'npm run dev'.<br>
 * O servidor de desenvolvimento será iniciado. Se não abrir automaticamente, você pode acessá-lo digitando http://localhost:8080 na barra de endereços do seu navegador.<br>
 
-Link da API: [API Funcionários](https://biblioteca-online-api-back.vercel.app/livros) <br>
+Link da API: [API Funcionários](https://funcionarios-api.vercel.app/funcionarios) <br>
 
 ## Contato:<br>
 Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
